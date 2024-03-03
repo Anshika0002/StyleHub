@@ -32,8 +32,8 @@ A full-stack eCommerce application built with React and Spring Boot And Node Js.
 
 ## Installation
 
-1. Clone Frontend repository: `git clone https://github.com/siddhikhandejs/react.git`
-2. Clone Backend Repository: `git clone https://github.com/siddhikhandejs/e-commerce-server.git`
+1. Clone Frontend repository: `git clone https://github.com/Anshika0002/react.git`
+2. Clone Backend Repository: `git clone https://github.com/Anshika0002/e-commerce-server.git`
 3. Change directory Frontend:`cd react`
 4. Change directory Backend: `cd e-commerce-server`
 5. Install frontend dependencies: `npm install`
