@@ -76,7 +76,6 @@ All protected endpoints require the `Authorization` header with a valid token.
     }
     ```
 
-... [continue documenting other endpoints](https://e-commerce-server-production-0873.up.railway.app/swagger-ui/index.html)
 
 ## Components
 
